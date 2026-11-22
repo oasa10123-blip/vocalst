@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VocalStage</string>
+    <string name="nav_pedal">Key Detect</string>
+    <string name="nav_monitor">Signal</string>
+    <string name="nav_ws">WebSocket</string>
+    <string name="nav_setup">Setup</string>
+    <string name="service_channel_name">Key Detector Audio Engine</string>
+    <string name="service_notification_title">VocalStage Auto Key &amp; WS</string>
+    <string name="service_notification_text">Live polyphonic key detection and WebSocket command dispatch active</string>
+    <string name="action_stop_engine">Stop Engine</string>
+</resources>

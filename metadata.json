@@ -1,0 +1,6 @@
+{
+  "name": "VocalStage",
+  "description": "Real-time automatic musical key detector with USB audio interface support and automated WebSocket harmony command dispatch (ch 1 harmony <0..11> ...).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
